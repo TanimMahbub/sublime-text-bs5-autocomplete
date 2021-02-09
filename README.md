@@ -29,7 +29,7 @@ There are 3 methods for installing this plugin.
 ## Created & maintained by
 
 <p align="center">
-	<img src="https://ahmetcadirci.com.tr/images/logo.svg" width="13px" alt="Ahmet Çadırcı">
+	<img src="https://ahmetcadirci.com.tr/images/logo.svg" width="130px" alt="Ahmet Çadırcı">
 </p>
 
 ## License
